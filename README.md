@@ -1,2 +1,5 @@
 # Ixion
-Ixion, a 3D first person shooter set in space.
+
+Source code will be released soon.
+
+For more information go to ixion.jaspreet.co
