@@ -7,3 +7,7 @@ This repo is the latest work that was completed on the project (circa 2016).
 Prior to this, we used BitBucket as version control repository hosting service. If you are interested in viewing the complete code to Ixion, you can view this code here: https://bitbucket.org/j_as/ixion/
 
 For more information go to <a href="http://projects.jaspreet.co/ixion/">projects.jaspreet.co/ixion/</a>
+
+Contributors:
+  - Longor1996 (https://twitter.com/longor1996)
+  - Marvin Lorenz
